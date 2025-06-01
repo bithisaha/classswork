@@ -1,2 +1,2 @@
 # classswork
-here some code i learned from class
+here some basic code i learned from class
